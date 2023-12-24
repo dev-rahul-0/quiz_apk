@@ -1,16 +1,8 @@
 # quiz_apk
 
-A new Flutter project.
+Enjoy interactive quizzes on-the-go! Test your knowledge with our engaging Flutter Quiz app, packed with diverse challenges and fun learning experiences.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+![Screenshot 2023-12-24 235018](https://github.com/dev-rahul-0/quiz_apk/assets/114253454/b1137f91-0b19-48ac-b457-d634a6186518)
+![Screenshot 2023-12-24 235028](https://github.com/dev-rahul-0/quiz_apk/assets/114253454/f7d88731-bd76-49de-bee6-7014940154bb)
+![Screenshot 2023-12-24 235049](https://github.com/dev-rahul-0/quiz_apk/assets/114253454/9e64137d-40aa-468f-b6fc-883a780e0208)
